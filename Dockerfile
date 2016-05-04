@@ -17,7 +17,7 @@ MAINTAINER  Tim Birkett <tim@birkett-bros.com> (@pysysops)
 RUN apt-get update && apt-get install -y \
     freetds-bin \
     freetds-common \
-    freetds-dev
+    freetds-dev \
     git \
     wget \
     bzip2 \
